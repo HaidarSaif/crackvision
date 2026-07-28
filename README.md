@@ -17,3 +17,4 @@ Data kerusakan yang terdeteksi dikumpulkan beserta koordinat GPS-nya agar dapat 
 ## 📂 Struktur Direktori
 *   `/microcontroller` - Berisi *source code* (C++) untuk ESP32-CAM dan integrasi GPS.
 *   `/documentation` - Berisi *foto* prototipe fisik.
+<img width="3840" height="2160" alt="crackvision (1)" src="https://github.com/user-attachments/assets/644660d6-b836-4d66-b88a-bf391be500d2" />
